@@ -1,0 +1,6 @@
+{
+  "name": "Anand Super Bazaar",
+  "description": "Official website of Anand Super Bazaar. Super Quality · Honest Prices. Explore product categories, in-store offers, store locations, and showroom experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

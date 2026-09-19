@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 180" width="100%" height="100%" fill="none">
+  <!-- Anand Super Bazaar Official Brand Vector Logo -->
+  <g id="brand-emblem" transform="translate(15, 10)">
+    <!-- Golden Sun Circle -->
+    <circle cx="56" cy="24" r="8" fill="#F59E0B" />
+    
+    <!-- Left Green Leaf/Swoosh -->
+    <path d="M 28 85 C 18 68 18 50 32 36 C 36 32 40 30 42 27 C 36 35 32 50 38 65 C 41 72 45 78 40 85 C 36 90 31 88 28 85 Z" fill="#15803D" />
+    <path d="M 20 72 C 15 82 17 96 26 106 C 32 113 40 116 46 122 C 38 116 32 106 28 95 C 25 86 24 78 20 72 Z" fill="#166534" />
+    
+    <!-- Red Central Flame / Heart Ribbon -->
+    <path d="M 32 58 C 36 42 46 32 54 28 C 48 38 46 54 50 68 C 54 82 62 94 60 108 C 58 118 52 125 44 130 C 50 122 53 112 50 100 C 47 88 38 78 34 68 Z" fill="#D01B27" />
+    
+    <!-- Golden Amber Accent Swoosh -->
+    <path d="M 44 80 C 48 70 54 62 60 55 C 57 66 56 78 58 88 C 60 96 64 105 60 115 C 57 122 52 128 47 132 C 51 124 53 115 51 106 C 49 98 44 90 44 80 Z" fill="#EAB308" />
+    
+    <!-- Right Green Sprout Leaf -->
+    <path d="M 52 38 C 58 32 64 30 68 34 C 70 36 68 40 64 45 C 60 49 55 52 50 56 C 50 48 51 42 52 38 Z" fill="#15803D" />
+    
+    <!-- Lower Golden Flare -->
+    <path d="M 47 110 C 51 120 52 130 48 140 C 45 132 46 122 47 110 Z" fill="#F59E0B" />
+  </g>
+
+  <!-- Wordmark: anand -->
+  <g id="brand-wordmark" transform="translate(100, 20)">
+    <text x="0" y="58" font-family="'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="52" font-weight="800" fill="#18181B" letter-spacing="-1">anand</text>
+    
+    <!-- Wordmark: superbazaar -->
+    <g transform="translate(4, 70)">
+      <!-- super (Red) -->
+      <text x="0" y="44" font-family="'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="#D01B27" letter-spacing="-1.2">super</text>
+      <!-- bazaar (Green) -->
+      <text x="145" y="44" font-family="'Outfit', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif" font-size="52" font-weight="900" fill="#15803D" letter-spacing="-1.2">bazaar</text>
+    </g>
+    
+    <!-- Official Brand Tagline: Super Quality . Honest Prices. -->
+    <text x="6" y="146" font-family="'Caveat', cursive, 'Brush Script MT', sans-serif" font-size="27" font-weight="700" fill="#334155" letter-spacing="0.5" font-style="italic">Super Quality . Honest Prices.</text>
+  </g>
+</svg>
